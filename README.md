@@ -1,1 +1,1 @@
-# Algorithms-Practice-Python-
+# Algorithms_Practice
